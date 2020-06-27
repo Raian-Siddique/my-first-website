@@ -1,3 +1,10 @@
 body {
     background-color: pink;
+    font-weight: bold;
+}
+
+h1 {
+    color: red;
+    font-weight: bolder;
+    text-align: center;
 }
